@@ -2,16 +2,16 @@ import { LanguageType } from 'reducers/locale/langugeType'
 
 export const environment = {
   firebase: {
-    apiKey: 'AIzaSyAHOZ7rWGDODCwJMB3WIt63CAIa90qI-jg',
-    authDomain: 'test-4515a.firebaseapp.com',
-    databaseURL: 'https://test-4515a.firebaseio.com',
-    projectId: 'test-4515a',
-    storageBucket: 'test-4515a.appspot.com',
-    messagingSenderId: '964743099489'
+      apiKey: 'AIzaSyCux_pGGJGR36PkN6TFwJ3A6nSCDYSMWPA',
+      authDomain: 'loginresto-7297b.firebaseapp.com',
+      databaseURL: 'https://loginresto-7297b.firebaseio.com',
+      projectId: 'loginresto-7297b',
+      storageBucket: 'loginresto-7297b.appspot.com',
+      messagingSenderId: '949088389513'
   },
   settings: {
     appName: 'Green',
-    defaultProfileCover: 'https://firebasestorage.googleapis.com/v0/b/open-social-33d92.appspot.com/o/images%2F751145a1-9488-46fd-a97e-04018665a6d3.JPG?alt=media&token=1a1d5e21-5101-450e-9054-ea4a20e06c57',
+    defaultProfileCover: 'https://firebasestorage.googleapis.com/v0/b/loginresto-7297b.appspot.com/o/fondo.JPG?alt=media&token=78a762dc-4668-4587-b18e-d02f8d4906d3',
     defaultLanguage: LanguageType.English
   },
   theme: {
